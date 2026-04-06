@@ -48,3 +48,16 @@
 | Uso desde móvil | Preferencia por dispositivos móviles |
 | Abandono en minuto 5 | Contenido poco atractivo al inicio |
 | Reproducción repetida | Contenido muy popular |
+
+## 8) Diagrama
+Usuario → App → Base de datos → Procesamiento → Análisis → Decisión  
+
+## 9) Problemas
+- **Problema 1:** Datos incompletos (usuarios que no terminan acciones)  
+- **Solución 1:** Validación y recolección adicional de datos  
+
+- **Problema 2:** Datos erróneos (fallos en registro o duplicados)  
+- **Solución 2:** Limpieza y depuración de datos (data cleaning)  
+
+## 10) Fuente
+- Enlace: https://www.ibm.com/topics/data-analytics

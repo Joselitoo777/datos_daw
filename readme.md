@@ -60,3 +60,20 @@ Finalmente, la IA usa estos modelos para tomar decisiones automatizadas.
 | IA         | Tomar decisiones automáticas basadas en modelos |
 
 ---
+
+## 8) Diagrama
+**Usuario → Datos → Big Data → Análisis → ML/DL → IA → Decisión**
+
+---
+
+## 9) Problemas
+- **Problema 1:** Datos incorrectos o incompletos  
+- **Solución 1:** Limpieza y validación de datos  
+
+- **Problema 2:** Sesgo en los datos (bias)  
+- **Solución 2:** Uso de datos diversos y técnicas de corrección de sesgos  
+
+---
+
+## 10) Fuente
+[- https://www.ibm.com/topics/big-data](https://www.ibm.com/es-es/think/topics/big-data)
